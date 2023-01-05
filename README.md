@@ -1,5 +1,5 @@
 
-# zentangling dovenetel
+# biomorphic 3d zentangling (dovenetel)
 transforming my house/
 
 ## step 1
