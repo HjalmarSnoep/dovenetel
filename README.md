@@ -1,3 +1,14 @@
+## we start with a bio-pod
+I can only start tomorrow. Maybe we need to go to the gamma, but check the shed. you have it all.
+also screws but we need to search the shed for supplies.. I know you want to... but 
+film your efforts you need to prove you are capable, or they will prevent you doing this. it´s too weird.
+Family and friends will overstep their jurisdiction..
+Once you publish it on youtube, people will think that is why you do it.. (dwazenheuvel) and apparantly then
+it is fine...
+That´s not your goal, it´s a socially acceptable cover. 
+Goal is to make a practical environment where you feel at home. Listen yo your gut..
+SHowing you Indra´s net on a daily basis.
+
 
 # biomorphic 3d zentangling (dovenetel)
 transforming my house/
