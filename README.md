@@ -1,4 +1,6 @@
-## we start with a bio-pod
+## we start with a sleeping-pod
+Instructions on wav.
+
 I can only start tomorrow. Maybe we need to go to the gamma, but check the shed. you have it all.
 also screws but we need to search the shed for supplies.. I know you want to... but 
 film your efforts you need to prove you are capable, or they will prevent you doing this. it´s too weird.
@@ -8,6 +10,9 @@ it is fine...
 That´s not your goal, it´s a socially acceptable cover. 
 Goal is to make a practical environment where you feel at home. Listen yo your gut..
 SHowing you Indra´s net on a daily basis.
+Also It´s pracical and easy to heat or cool??? But well isolated and light in the least...
+Keep air holes and think of light( 48vbattery powered usb light with switch is best I think..
+(heat can´t get away, right?? so even  LED heat must be reconned with) So don´t build it in yet!!!
 
 
 # biomorphic 3d zentangling (dovenetel)
