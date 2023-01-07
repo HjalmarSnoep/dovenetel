@@ -1,3 +1,6 @@
+## we start by cutting all cardboard gathered in the last year
+into ribbons, gather it in a big box, so we can search the shed for latex gloves. biiiiig job that I can do watching tv.
+
 ## we start with a sleeping-pod
 Instructions on wav.
 
