@@ -26,7 +26,7 @@ basic inscribed circles  circumference
 - 5- 4.324031329886044 5 holes every 0.8648062659772089
 - 6- 5.441398092702656 6 holes every 0.9068996821171093
 Calculate more:
-
+https://hjalmarsnoep.github.io/dovenetel/inscribed-circles.html
 
 ## we start with a sleeping-pod
 Instructions on wav.
