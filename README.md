@@ -1,5 +1,6 @@
 ## we start by cutting all cardboard gathered in the last year
 into ribbons, gather it in a big box, so we can search the shed for latex gloves. biiiiig job that I can do watching tv.
+and cleaning up, so I get my freedom back...
 
 ## desigN rough first
 https://en.wikipedia.org/wiki/Johnson_solid
