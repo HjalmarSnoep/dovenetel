@@ -1,6 +1,30 @@
 ## we start by cutting all cardboard gathered in the last year
 into ribbons, gather it in a big box, so we can search the shed for latex gloves. biiiiig job that I can do watching tv.
 
+## desigN rough first
+formula=2*PI/sin(PI/n) (n= nr of vertices of regular polygon.. inscribed circle circumference
+, I think, please check with magic numbers we know below)
+<img src="https://proofwiki.org/w/images/thumb/1/1b/Euclid-IV-13.png/320px-Euclid-IV-13.png" alt="Euclid-IV-13.png"/>![image](https://user-images.githubusercontent.com/26629952/211184567-ba02a2b1-ad69-4a5d-834a-6ddc0b17c779.png)
+
+
+handy???
+https://en.wikipedia.org/wiki/Johnson_solid
+calculatoratoz.com/en/johnson-solids-Calculators/CalcList-2681
+radius of circles inscribed to create
+we need three holy numbers...
+equilateral triangle circumference of inscribed circle
+square rib to circumference
+pentagon to circumference
+https://www.researchgate.net/figure/Regular-polygon-inscribed-in-the-circle_fig4_339760580
+
+basic inscribed circles  circumference
+3- 1.813799364234217 lwngth 3 holes every 0.6045997880780724
+4- 3.1415926535897922 4 holes every 0.7853981633974481
+5- 4.324031329886044 5 holes every 0.8648062659772089
+6- 5.441398092702656 6 holes every 0.9068996821171093
+Calculate more:
+
+
 ## we start with a sleeping-pod
 Instructions on wav.
 
