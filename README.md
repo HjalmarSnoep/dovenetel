@@ -3,11 +3,7 @@ into ribbons, gather it in a big box, so we can search the shed for latex gloves
 
 ## desigN rough first
 formula=2*PI/sin(PI/n) (n= nr of vertices of regular polygon.. inscribed circle circumference
-, I think, please check with magic numbers we know below)
-<img src="https://proofwiki.org/w/images/thumb/1/1b/Euclid-IV-13.png/320px-Euclid-IV-13.png" alt="Euclid-IV-13.png"/>![image](https://user-images.githubusercontent.com/26629952/211184567-ba02a2b1-ad69-4a5d-834a-6ddc0b17c779.png)
-
-
-handy???
+I made a calculator... see code.
 https://en.wikipedia.org/wiki/Johnson_solid
 calculatoratoz.com/en/johnson-solids-Calculators/CalcList-2681
 radius of circles inscribed to create
