@@ -1,0 +1,68 @@
+<!doctype html>
+  <html>
+  <body>
+    <svg id="graph" width="100" height="100"></svg><br>
+    polygon: <input type="number" value="3" min="3" id="poly"><br>
+    <button id="go">calculate</button><br>
+    <div id="answer"></div><br>
+    <script>
+      calc();
+      document.getElementById("go").addEventListener("click",calc);
+      document.getElementById("poly").addEventListener("click",calc);
+      function calc()
+      {
+        var n=Number(document.getElementById("poly").value);
+        var svg=document.getElementById("graph");
+        var str='<polyline points="';
+        var size=150,x1=9,y1=9,rib,rin;
+        for(var i=0.5;i<=n+0.5;i+=1)
+        {
+          var r=i/n*2*Math.PI;
+          var x=size+Math.sin(r)*size;
+          var y=size+Math.cos(r)*size;
+          dx=x1-x;
+          dy=y1-y;
+          rib=Math.sqrt(dx*dx+dy*dy);
+          var midx=(x1+x)/2;
+          var midy=(y1+y)/2;
+          dx=midx-size;
+          dy=midy-size;
+          rin=Math.sqrt(dx*dx+dy*dy);
+          x1=x;
+          y1=y;
+          str+=x+" "+y+", ";
+        }
+        str=str.substr(0,str.length-2);
+        str+='" stroke="#000" fill="none"></polyline>';
+        var r= (n*rib/2)/Math.sin(Math.PI/n); // can´t figure out the trigonometry used my own method..
+        str+='<circle cx="'+size+'"cy="'+size+'" r="'+rin+'" stroke="#000" fill="none"></circle>';
+
+        for(var i=0.5;i<=n+0.5;i+=1)
+        {
+          var r=i/n*2*Math.PI;
+          var x=size+Math.sin(r)*size;
+          var y=size+Math.cos(r)*size;
+          dx=x1-x;
+          dy=y1-y;
+          rib=Math.sqrt(dx*dx+dy*dy);
+          var midx=(x1+x)/2;
+          var midy=(y1+y)/2;
+          dx=midx-size;
+          dy=midy-size;
+          rin=Math.sqrt(dx*dx+dy*dy);
+          x1=x;
+          y1=y;
+          str+='<circle cx="'+midx+'"cy="'+midy+'" r="2" fill="black"></circle>';
+        }
+
+        svg.innerHTML=str;
+        svg.setAttribute("width",size*2);
+        svg.setAttribute("height",size*2);
+        //
+        console.log(str+" "+rib+r);
+
+        document.getElementById("answer").innerHTML=rin*Math.PI*2/rib+ " holes every "+(rin*Math.PI*2/rib)/n;
+      }
+    </script>
+  </body>
+</html>
