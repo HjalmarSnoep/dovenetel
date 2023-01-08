@@ -2,22 +2,29 @@
 into ribbons, gather it in a big box, so we can search the shed for latex gloves. biiiiig job that I can do watching tv.
 
 ## desigN rough first
-formula=2*PI/sin(PI/n) (n= nr of vertices of regular polygon.. inscribed circle circumference
-I made a calculator... see code.
 https://en.wikipedia.org/wiki/Johnson_solid
+
+I proposed inscribed circle method:
+
+https://www.researchgate.net/figure/Regular-polygon-inscribed-in-the-circle_fig4_339760580
+
+formula=2*PI/sin(PI/n) (n= nr of vertices of regular polygon.. inscribed circle circumference
+I made a calculator... see code. inscribed_circles.html
+
+You can easily do sizes for 12 johnson soldids, here
 calculatoratoz.com/en/johnson-solids-Calculators/CalcList-2681
+
 radius of circles inscribed to create
 we need three holy numbers...
 equilateral triangle circumference of inscribed circle
 square rib to circumference
 pentagon to circumference
-https://www.researchgate.net/figure/Regular-polygon-inscribed-in-the-circle_fig4_339760580
 
 basic inscribed circles  circumference
-3- 1.813799364234217 lwngth 3 holes every 0.6045997880780724
-4- 3.1415926535897922 4 holes every 0.7853981633974481
-5- 4.324031329886044 5 holes every 0.8648062659772089
-6- 5.441398092702656 6 holes every 0.9068996821171093
+- 3- 1.813799364234217 lwngth 3 holes every 0.6045997880780724
+- 4- 3.1415926535897922 4 holes every 0.7853981633974481
+- 5- 4.324031329886044 5 holes every 0.8648062659772089
+- 6- 5.441398092702656 6 holes every 0.9068996821171093
 Calculate more:
 
 
